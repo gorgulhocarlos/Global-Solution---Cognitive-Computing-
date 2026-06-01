@@ -1,14 +1,14 @@
 # Global-Solution---Cognitive-Computing-
 
-Integrantes: 
-Felipe Cardoso Scalesse Ferreira RM99062 
-Carlos Augusto Gorgulho RM98456 
-Pablo Rangel RM551548
+
 
 # 🛰️ SPACE CONNECT — Previsão de Risco de Desastres com Dados de Satélite
 
-> **Disciplina:** Cognitive Computing, Computer Vision and IoT Systems — FIAP 2026  
+> **Disciplina:** Cognitive Computing, Computer Vision and IoT Systems — FIAP 2026
+> 
 > **Prof.:** Arnaldo Viana
+> 
+> **Integrantes:** Felipe Cardoso Scalesse Ferreira RM99062, Carlos Augusto Gorgulho RM98456, Pablo Rangel RM551548
 
 ## Sobre o Projeto
 
